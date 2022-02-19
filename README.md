@@ -3,7 +3,8 @@ art gallery
 
 # Link
 https://gniruthian.github.io/Art-Gallery/
-download images
+
+# download images
 
 # Screenshot
 ![Screenshot 4](https://user-images.githubusercontent.com/88297426/146643868-68ae93c1-23ac-4e24-9541-f804039beb86.png)
