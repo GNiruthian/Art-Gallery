@@ -9,7 +9,7 @@ https://gniruthian.github.io/Art-Gallery/
 # Screenshot 1
 ![Screenshot 4](https://user-images.githubusercontent.com/88297426/146643868-68ae93c1-23ac-4e24-9541-f804039beb86.png)
 
-# Screenshot
+# Screenshot 2 
 ![Screenshot 2](https://user-images.githubusercontent.com/88297426/146643896-e9353a15-9111-42c0-a86d-67a5657a1bd0.png)
 
 # Screenshot
