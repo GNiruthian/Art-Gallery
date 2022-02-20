@@ -15,5 +15,5 @@ https://gniruthian.github.io/Art-Gallery/
 # Screenshot 3
 ![Screenshot 3](https://user-images.githubusercontent.com/88297426/146643902-bba0e1f0-7f23-4be5-be2e-daf13c9c902f.png)
 
-# Screenshot
+# Screenshot 4
 ![Screenshot (216)](https://user-images.githubusercontent.com/88297426/147875089-31a92d3f-8b19-435d-80d1-0ab48ae08cef.png)
