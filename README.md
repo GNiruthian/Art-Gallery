@@ -1,5 +1,5 @@
 # Art-Gallery
-art gallery
+
 
 # Link
 https://gniruthian.github.io/Art-Gallery/
